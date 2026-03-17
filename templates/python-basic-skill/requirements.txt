@@ -1,0 +1,3 @@
+# Python Skill 基础依赖
+httpx>=0.24.0        # HTTP 客户端
+python-dotenv>=1.0.0 # 环境变量管理
